@@ -1,0 +1,8 @@
+input/*.csv
+input/audio_files/**
+output/**
+**/__pycache__
+train/temp/train/**
+train/temp/val/**
+train/data_training/audio_files/**
+train/data_training/*.csv
